@@ -1,10 +1,12 @@
 # SolidStart by cog25
 
-Everything you need to build a Solid project, powered by [`solid-start`](https://start.solidjs.com);
+Everything you need to build a Solid project, powered by [`solid-start`](https://start.solidjs.com) and [`unocss`](https://unocss.dev);
 
 ## Creating a project
 
-Clone this repo.
+```bash
+bunx degit cog25/solidstart
+```
 
 ## Developing
 
