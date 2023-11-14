@@ -3,9 +3,10 @@
 Everything you need to build a Solid project, powered by [`solid-start`](https://start.solidjs.com) and [`unocss`](https://unocss.dev);
 
 ## Creating a project
-
+Run one of these commends
 ```bash
-bunx degit cog25/solidstart
+bunx degit cog25/solidstart # or
+bun create cog25/solidstart
 ```
 
 ## Developing
